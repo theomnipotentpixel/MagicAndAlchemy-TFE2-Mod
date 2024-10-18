@@ -1,0 +1,12 @@
+[
+    {
+        "className": "ManaFarmAdvanced",
+        "food": 1,
+        "wood": 2,
+        "stone": 0,
+        "machineParts": 0,
+        "knowledge": 0,
+        "name": "Advanced Mana Production",
+        "description": "Advanced Mana Production"
+    }   
+]

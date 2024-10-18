@@ -1,0 +1,36 @@
+[
+    {
+        "className": "ManaProducer",
+        "name": "Magical Garden",
+        "description": "Produce mana from the good energy of your citizens!",
+        "food": 10000,
+        "wood": 2500,
+        "stone": 500,
+        "machineParts": 0,
+        "refinedMetal": 0,
+        "computerChips": 0,
+        "graphene": 5,
+        "knowledge": 15000,
+        "category": "MAA",
+        "unlockedByDefault": true,
+        "specialInfo": [],
+        "jobs": 2
+    },
+    {
+        "className": "AlchemyLab",
+        "name": "Alchemy Lab",
+        "description": "Trasmute materials into other materials!",
+        "food": 25000,
+        "wood": 10000,
+        "stone": 7500,
+        "machineParts": 500,
+        "refinedMetal": 250,
+        "computerChips": 0,
+        "graphene": 10,
+        "knowledge": 30000,
+        "category": "MAA",
+        "unlockedByDefault": true,
+        "specialInfo": [],
+        "jobs": 3
+    }
+]
