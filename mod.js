@@ -10,7 +10,7 @@ Helpers.ticksPerDay = 2877;
 
 Helpers.isBetweenHours = function(city, start, end){
     return (((city.simulation.time.timeSinceStart | 0) / 60 ) | 0) % 24 > start && 
-    (((city.simulation.time.timeSinceStart | 0) / 60 ) | 0) % 24 < end
+    (((city.simulation.time.timeSinceStart | 0) / 60 ) | 0) % 24 < end;
 }
 
 Helpers.isDay = function(city){
