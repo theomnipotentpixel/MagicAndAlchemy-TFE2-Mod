@@ -218,20 +218,3 @@ function(queue){
     this.totalMaterialsConsumed = queue.readFloat();
     this.isFirstTick = false;
 });
-
-
-
-// ModTools.makeBuilding("TempHouse", (superClass) => { return {
-//     walkAround: function(citizen, stepsInBuilding) {
-//         if (random_Random.getInt(3) == 1) {
-//             citizen.changeFloor();
-//             return;
-//         }
-
-//         //Slowly move in the house
-//         citizen.moveAndWaitRandom(3, 17, 60, 90, null, false, true);
-//     },
-//     get_possibleUpgrades: function() {
-//         return [];
-//     }
-// };}, "spr_devhouse");
